@@ -1,7 +1,7 @@
 # Internet Anthropology: An Investigation into Twitch's Forsen and His Community
 
 ## Disclaimer
-* Not touched since approximately November of 2023; this repo was uploaded in its entirely in September of 2026.
+* This project has not been touched since approximately November of 2023; the repo was uploaded in its entirely in September of 2026 with minimal edits.
 * Some of the content herein may be deemed insensitive. Individual discretion advised.
 
 ## Abstract
