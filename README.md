@@ -1,5 +1,9 @@
 # Internet Anthropology: An Investigation into Twitch's Forsen and His Community
 
+## Disclaimer
+* Not touched since approximately November of 2023; this repo was uploaded in its entirely in September of 2026.
+* Some of the content herein may be deemed insensitive. Individual discretion advised.
+
 ## Abstract
 The present article is an anthropological investigation and writeup of the popular Internet streamer, Sebastian Fors, also known as Forsen. Forsen has a dedicated following of particularly humorous young men, called the Forsen Bajs (from Swedish for "Boys"), who constitute a unique Internet civilization unto itself. Ironic to the end, always criticizing, patently irreverent, infinitely aware of their own unique flavor of hyperniche Internet humor deterring newcomers (and fond of gaslighting newcomers for it), Forsen's community, the Forsen Bajs, presents, perhaps, the most striking example of a fully-developed, complex Internet civilization, with its own language, customs, culture and history, akin to the chaotic culture of 4chan, but with greater depth, inasmuch as the Bajs are centered around a real figurehead, Forsen himself. Future historians of the Internet will undoubtedly marvel at the anthropological enigma of Forsen and his Bajs, who have collectively altered the course of live viewership platforms to no small degree. 
 
